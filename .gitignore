@@ -4,3 +4,4 @@ v1.1/
 *.pt
 best_model_old.pth
 best_model.pth
+.venv
